@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=HOLY+MOLY " />
 </p>
-# me
 <div align="center">
 
  Hey! im Manahil :D
