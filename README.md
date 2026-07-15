@@ -1,11 +1,11 @@
 # me
 <div align="center">
 
-# hi, i'm your-name
+#Hey! im Manahil :D
 
-software developer • lifelong learner
+ wow python
 
-*"make it simple, but significant."*
+*cool*
 
 </div>
 
