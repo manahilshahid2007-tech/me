@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pinterest.com/pin/133559945196045079/" alt="Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+YourName;Software+Developer;Always+Learning;Building+Cool+Things" />
 </p>
 # me
 <div align="center">
