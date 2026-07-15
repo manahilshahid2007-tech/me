@@ -1,11 +1,14 @@
+<p align="center">
+  <img src="https://www.pinterest.com/pin/133559945196045079/" alt="Banner" width="100%" />
+</p>
 # me
 <div align="center">
 
-#Hey! im Manahil :D
+ Hey! im Manahil :D
 
  wow python
 
-*cool*
+**cool**
 
 </div>
 
@@ -13,10 +16,10 @@
 
 ### about
 
-- currently learning **...**
-- working on **...**
+- currently learning **coding**
+- working on **skills**
 - interested in **web development**, **ai**, **open source**
-- reach me: **your@email.com**
+- reach me: **manahilshahid2007@gmail.com**
 
 ---
 
